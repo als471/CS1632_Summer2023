@@ -11,7 +11,7 @@
 # CS 1632 - Software Testing
 Summer Semester 2023
 
-* DUE: July 10 (Tuesday), 2023 11:30 AM
+* DUE: July 11 (Tuesday), 2023 11:30 AM
 
 **GitHub Classroom Link:** https://classroom.github.com/a/XqWw7eDM
 
