@@ -15,7 +15,7 @@ Summer Semester 2023 - Exercise 1
 
 * DUE: July 6 (Thursday), 2023 11:30 AM
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/3P1Vvh7R
 
 This is going to be your first group assignment.  When you click on the GitHub
 Classroom link, you will be asked to either create a new team or join an
