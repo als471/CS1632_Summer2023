@@ -29,10 +29,10 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 1: In-class Supplementary Exercise 1: Behavior Driven Development
   * Prerequisite: Behavior Driven Development Lecture + TopHat Questions
-  * Prerequisite: Writing Testable Code Lecture (READING: AFIST, Chapter 16) + TopHat Questions
 
 * Class 2: In-class Exercise 3: Automated System Testing / Release Deliverable 3
   * Prerequisite: Automated System Testing Lecture + TopHat Questions
+  * Prerequisite: Writing Testable Code Lecture (READING: AFIST, Chapter 16) + TopHat Questions
 
 ## WEEK 4 (Week of 17 JUL)
 
