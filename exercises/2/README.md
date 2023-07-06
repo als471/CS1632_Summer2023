@@ -21,7 +21,7 @@ Summer Semester 2023 - Exercise 2
 
 * DUE: July 11 (Tuesday), 2023 11:30 AM
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/RI8rV2Yt
 
 ## Before You Begin
 
@@ -168,7 +168,7 @@ invokes them one by one.  You should get a result that looks like this:
    [INFO] BUILD FAILURE
    [INFO] ------------------------------------------------------------------------
    [INFO] Total time:  2.986 s
-   [INFO] Finished at: 2023-07-06T22:09:19-04:00
+   [INFO] Finished at: 2023-07-05T22:09:19-04:00
    [INFO] ------------------------------------------------------------------------
    ...
    ```
